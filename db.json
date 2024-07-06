@@ -1,0 +1,41 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Product 1",
+        "image": "image1.jpg",
+        "quantity": 10,
+        "price": 100,
+        "discount": 0.1,
+        "desc": "Description of product 1"
+      },
+      {
+        "id": "2",
+        "name": "Product 2",
+        "image": "image2.jpg",
+        "quantity": 5,
+        "price": 200,
+        "discount": 0.2,
+        "desc": "Description of product 2"
+      },
+      {
+        "id": "3",
+        "name": "Product 3",
+        "image": "image3.jpg",
+        "quantity": 8,
+        "price": 150,
+        "discount": 0.15,
+        "desc": "Description of product 3"
+      },
+      {
+        "id": "aba4",
+        "name": "Samsung",
+        "image": "asdasdas",
+        "quantity": "1",
+        "price": "12.00",
+        "discount": "1",
+        "desc": "ádsad"
+      }
+    ],
+    "users": []
+  }
